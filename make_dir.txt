@@ -1,6 +1,0 @@
-%cd /content/
-
-!mkdir mAP_value_calulation/input/
-!mkdir mAP_value_calulation/input/detection-results/
-!mkdir mAP_value_calulation/input/ground-truth/
-!mkdir mAP_value_calulation/input/images-optional/
