@@ -6,11 +6,14 @@ After clonning this repo, you have to make the internal file structure. So execu
 # Create file dir:
 
 %cd /content/
-!mkdir mAP_value_calulation/input/
-!mkdir mAP_value_calulation/input/detection-results/
-!mkdir mAP_value_calulation/input/ground-truth/
-!mkdir mAP_value_calulation/input/images-optional/
 
+!mkdir mAP_value_calulation/input/
+
+!mkdir mAP_value_calulation/input/detection-results/
+
+!mkdir mAP_value_calulation/input/ground-truth/
+
+!mkdir mAP_value_calulation/input/images-optional/
 
 
 # What is mAP (mean Average Precision)?
